@@ -80,8 +80,9 @@ if "too_many_responses" not in st.session_state:
 if "response_too_long" not in st.session_state:
     st.session_state.response_too_long = False
 
-max_response_length = 40
-def add_response(max_response_length = max_response_length):
+MAX_RESPONSES = 10
+MAX_RESPONSE_LENGTH = 40
+def add_response(max_response_length = MAX_RESPONSE_LENGTH, max_responses = MAX_RESPONSES):
     response = st.session_state.response_input.strip()
     response_list = st.session_state.response_dict[st.session_state.question_suggestion]
 
@@ -89,7 +90,7 @@ def add_response(max_response_length = max_response_length):
         if response in response_list:
             st.session_state.response_input = ""  # Clear input
             st.session_state.response_too_long = False
-        elif len(response_list) < 5:
+        elif len(response_list) < max_responses:
             if len(response) <= max_response_length:
                 response_list.append(response)
                 st.session_state.response_input = ""  # Clear input
@@ -292,10 +293,10 @@ with left_column:
                     st.button("Clear", on_click=clear_responses)
             
             if st.session_state.too_many_responses:
-                st.write("You may only enter up to 5 responses.")
+                st.write(f"You may only enter up to {MAX_RESPONSES} responses.")
 
             if st.session_state.response_too_long:
-                st.write(f"Please keep your response under {max_response_length} characters")
+                st.write(f"Please keep your response under {MAX_RESPONSE_LENGTH} characters")
 
     # st.write(st.session_state.llm_prompt)
     st.write(st.session_state.survey_genre_blurb)
