@@ -447,6 +447,9 @@ def load_user_reviews_button(genre_labels: pd.DataFrame,
         set_sliders(user_fiction_values_dict)
         set_sliders(user_nonfiction_values_dict)
 
+        # reset prompt
+        st.session_state.survey_genre_blurb = ""
+
 @st.cache_data
 def load_sparse_user_item_matrix(filepath = "data/user_item_sparse.npz"):
     loaded_sparse = load_npz(filepath)
