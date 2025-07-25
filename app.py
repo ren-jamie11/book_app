@@ -705,5 +705,5 @@ with left_column:
     with neighbor_tab:
         st.write("**Neighbor users**")
         st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
-                        whose reading patterns most closely match the genres you provided.""")
+                        whose reading patterns most closely match your genres above.""")
         st.dataframe(st.session_state.neighbors, height = 210)
