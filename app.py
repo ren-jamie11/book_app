@@ -242,9 +242,9 @@ def submit_personality_form(cooldown = 30):
     if not is_repeat:
         st.session_state.last_submit_time = now
 
+    # RESET THINGS
     st.session_state.prompt_cache.set(prompt, now)
-
-    # RESET RECOMMENDATIONS
+    st.session_state.survey_expander = False
     st.session_state.recommendations = pd.DataFrame(columns=rec_df_cols)
     
 def reset_everything():
