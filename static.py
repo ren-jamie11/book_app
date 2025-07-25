@@ -514,7 +514,7 @@ app_intro2 = """
 With Pocket Library, you can discover new books that resonate with your unique tastes – 
 sourced from reputable Goodreads users whose reading habits align with yours. You can bet these 
 suggestions are ones you can trust!  And besides…wouldn’t it be fun to know what books other 
-people loved that you’ve been missing out on?
+people enjoyed that you’ve been missing out on?
 """
 
 
