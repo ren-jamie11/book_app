@@ -91,16 +91,14 @@ def add_response(max_response_length = MAX_RESPONSE_LENGTH, max_responses = MAX_
 
     if response:
         if response in response_list:
-            st.session_state.response_input = ""  # Clear input
+            st.session_state.response_input = ""  
             st.session_state.response_too_long = False
         elif len(response_list) < max_responses:
             if len(response) <= max_response_length:
-                # success 
+                # success
                 response_list.append(response)
-                st.session_state.response_input = ""  # Clear input
+                st.session_state.response_input = ""  
                 st.session_state.response_too_long = False
-                st.session_state.too_few_responses = False
-
             else:
                 st.session_state.response_too_long = True
         else:
