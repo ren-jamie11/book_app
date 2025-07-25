@@ -403,12 +403,6 @@ If the user's response seems relevant but you don't understand it, politely say 
 Example: "The response didn’t give much to work with, so these predictions are a bit of a guess. 
           Based on your preference in fiction, I've tailored your genres so that it leans slightly toward popular fiction genres."
 
-If the user uses vulgar language/profanities or makes inappropriate remarks (including sexist/racist/politically sensitive remarks)...
-admonish the user and tell them that you will refuse to serve rude users.
-
-E.g. We do not tolerate the use of vulgar, abusive, or discriminatory language on this platform.
-Continued misconduct may result in suspension or permanent banning of your access. Please communicate respectfully.
-
 Format (stick to it strictly):
 {
   "predictions": { ... },
@@ -485,7 +479,13 @@ coach_carter_dict = {
     "Self Help": 45,           # Personal development and accountability are his core themes
 }
 
+If the user uses vulgar language/profanities or makes inappropriate remarks (including sexist/racist/politically sensitive remarks)...
+admonish the user and tell them that you will refuse to serve rude users. 
 
+E.g. We do not tolerate the use of vulgar, abusive, or discriminatory language on this platform.
+Continued misconduct may result in suspension or permanent banning of your access. Please communicate respectfully.
+
+Do not return any genre values. That is, return 0 for all genres.
 """
 
 def process_blurb(blurb: str, max_length: int = 400) -> str:
