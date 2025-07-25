@@ -73,12 +73,16 @@ def check_if_sliders_zero():
             return False
     return True
 
+if "too_few_responses" not in st.session_state:
+    st.session_state.too_few_responses = True
+
 if "too_many_responses" not in st.session_state:
     st.session_state.too_many_responses = False
 
 if "response_too_long" not in st.session_state:
     st.session_state.response_too_long = False
 
+MIN_RESPONSES = 3
 MAX_RESPONSES = 10
 MAX_RESPONSE_LENGTH = 40
 def add_response(max_response_length = MAX_RESPONSE_LENGTH, max_responses = MAX_RESPONSES):
@@ -118,10 +122,17 @@ def generate_genre_prompt():
         genre_pref = "Both fiction and non-fiction"
 
     question = st.session_state.get("question_suggestion", "N/A")
-    responses = ""
+    responses = []
     if question in st.session_state.response_dict:
         responses = st.session_state.response_dict[question]
 
+    # verify length
+    if len(responses) < MIN_RESPONSES:
+        st.session_state.too_few_responses = True
+    else:
+        st.session_state.too_few_responses = False
+
+    # user's response
     response_text = ", ".join(responses) if responses else "No responses given"
 
     prompt = f'''
@@ -201,6 +212,9 @@ if "prompt_cache" not in st.session_state:
 def submit_personality_form(cooldown = 30):
     now = time.time()
     prompt = generate_genre_prompt()
+
+    if st.session_state.too_few_responses:
+        return
     
     # check if we need to rate limit (new survey response)
     is_repeat = st.session_state.prompt_cache.get(prompt) is not None
@@ -291,6 +305,9 @@ with left_column:
                 if curr_responses:
                     st.button("Clear", on_click=clear_responses)
             
+            if st.session_state.too_few_responses:
+                st.write(f"Please enter at least {MIN_RESPONSES} responses.")
+
             if st.session_state.too_many_responses:
                 st.write(f"You may only enter up to {MAX_RESPONSES} responses.")
 
