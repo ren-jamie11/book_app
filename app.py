@@ -24,7 +24,6 @@ def get_openai_client(api_key):
         st.session_state.openai_client = OpenAI(api_key=api_key)
     return st.session_state.openai_client   
 
-
 client = get_openai_client(st.secrets["OpenAI_key"])
 
 st.set_page_config(page_title="Pocket Library", layout="wide")
