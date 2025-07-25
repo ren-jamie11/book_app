@@ -265,7 +265,7 @@ with left_column:
             reading_preference = st.radio(
                 "I tend to read:",
                 options=static_genre_types.keys(),
-                index = 2,
+                index = 0,
                 horizontal=True,
                 key="reading_preference"
             )
