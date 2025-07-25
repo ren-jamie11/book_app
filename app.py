@@ -683,7 +683,7 @@ with left_column:
     # st.divider()
     # st.write("**Technical details**")
     st.write("")
-    data_tab, glossary_tab, neighbor_tab = st.tabs(["Data", "Neighbor users", "Glossary"])
+    data_tab, glossary_tab, neighbor_tab = st.tabs(["Data", "Glossary", "Neighbor users"])
 
     with data_tab:
         data_col1, _, data_col2 = st.columns([2,.5,3])
