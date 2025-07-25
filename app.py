@@ -215,6 +215,9 @@ if "last_submit_time" not in st.session_state:
 if "prompt_cache" not in st.session_state:
     st.session_state.prompt_cache = UserActivityCache(maxsize=10)
 
+if "survey_expander" not in st.session_state:
+    st.session_state.survey_expander = False
+
 def submit_personality_form(cooldown = 30):
     now = time.time()
     prompt = generate_genre_prompt()
@@ -228,6 +231,7 @@ def submit_personality_form(cooldown = 30):
     if not is_repeat and now - last_submit_time < cooldown:
         remaining = int(cooldown - (now - last_submit_time))
         st.warning(f"Please wait {remaining} more seconds before submitting again.")
+        st.session_state.survey_expander = True
         return
     
     # enough time passed or we already seen this response
@@ -255,7 +259,7 @@ with left_column:
     
     st.write("")
     st.write("")
-    with st.expander("Get started"):
+    with st.expander("Get started", expanded = st.session_state.survey_expander):
         
         name_col, gender_col = st.columns([3,3])
         with name_col:
