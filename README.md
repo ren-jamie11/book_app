@@ -1,1 +1,1 @@
-# book_app
+# personality_book_rec
