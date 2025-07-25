@@ -178,20 +178,26 @@ def survey_results(survey_response, instructions = prompt_instructions, dict_ins
     try:
         response = call_openai_api(survey_response, instructions, dict_instructions, client, model)
     except Timeout:
-        st.error("Request timed out after 10 seconds.")
+        st.write("Request timed out after 10 seconds.")
         logging.error("Request timed out after 10 seconds.")
+        return empty_genre_dict, error_prompt_msg
     except RateLimitError:
-        st.error("Rate limit hit. Try again later.")
+        st.write("Rate limit hit. Try again later.")
         logging.error("Rate limit hit. Try again later.")
+        return empty_genre_dict, error_prompt_msg
     except APIError as e:
-        st.error(f"OpenAI API error: {e.status_code} - {e.message}")
-        logging.error(f"OpenAI API error: {e.status_code} - {e.message}")
+        st.write("API error. Try again later.")
+        logging.error("API error. Try again later.")
+        return empty_genre_dict, error_prompt_msg
     except APIConnectionError:
-        st.error("Failed to connect to the OpenAI API. Check your network.")
-        logging.error("Failed to connect to the OpenAI API. Check your network.")
+        st.write("API connection error. Try again later.")
+        logging.error("API connection error. Try again later.")
+        return empty_genre_dict, error_prompt_msg
     except OpenAIError as e:
-        st.error(f"General OpenAI error: {e}")
-        logging.error(f"General OpenAI error: {e}")
+        st.write("Function error. Try again later.")
+        logging.error("Function error. Try again later.")
+        return empty_genre_dict, error_prompt_msg
+    
     
     genre_preds_dict, genre_preds_blurb = parse_llm_output(response)
 

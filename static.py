@@ -98,6 +98,29 @@ nonfiction_genres = [
  'Science',
  'Self Help']
 
+error_prompt_msg = "Processing error, please try again."
+
+empty_genre_dict = {
+    "Classics": 0,
+    "Contemporary": 0,
+    "Fantasy": 0,
+    "Historical Fiction": 0,
+    "Horror": 0,
+    "Mystery": 0,
+    "Romance": 0,
+    "Science Fiction": 0,
+    "Young Adult": 0,
+    "Art": 0,
+    "Biography": 0,
+    "Business": 0,
+    "History": 0,
+    "Music": 0,
+    "Philosophy": 0,
+    "Psychology": 0,
+    "Science": 0,
+    "Self Help": 0
+}
+
 lex_genre_dict = {'Classics': 25, 
  'Contemporary': 7, 
  'Fantasy': 17, 
