@@ -41,7 +41,6 @@ def reset_sliders(default=0):
         st.session_state[g] = default
     return
 
-
 # Personality Quiz Stuff
 
 if "response_dict" not in st.session_state:
