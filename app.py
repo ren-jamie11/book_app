@@ -178,7 +178,7 @@ def survey_results(survey_response, instructions = prompt_instructions, dict_ins
     try:
         response = call_openai_api(survey_response, instructions, dict_instructions, client, model)
     except Exception as e:
-        st.write(e)
+        st.write("An error has occurred with the survey...sorry about that")
     
     genre_preds_dict, genre_preds_blurb = parse_llm_output(response)
 
