@@ -26,7 +26,6 @@ def get_openai_client(api_key):
 
 
 client = get_openai_client(st.secrets["OpenAI_key"])
-# client = get_openai_client(openai_api_key)
 
 st.set_page_config(page_title="Pocket Library", layout="wide")
 left_column, breaker, col_recommend = st.columns([4.5, 0.5, 6])
