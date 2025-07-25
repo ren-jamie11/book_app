@@ -150,14 +150,19 @@ def call_openai_api(survey_response, instructions, dict_instructions, client, mo
     prompt = instructions + survey_response + dict_instructions
     
     start = time.time()
-    response = client.chat.completions.create(
-        model=model, 
-        messages=[
-            {"role": "system", "content": "You are an AI assistant designed to output only JSON objects."},
-            {"role": "user", "content": prompt}
-        ],
-        response_format={"type": "json_object"} 
-    )
+
+    try:
+        response = client.chat.completions.create(
+            model=model, 
+            messages=[
+                {"role": "system", "content": "You are an AI assistant designed to output only JSON objects."},
+                {"role": "user", "content": prompt}
+            ],
+            response_format={"type": "json_object"} 
+        )
+
+    except Exception as e:
+        raise Exception(f"Error while calling API: {e}")
 
     end = time.time()
     elapsed = end - start
