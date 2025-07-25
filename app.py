@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import json
 
-from openai import OpenAI, OpenAIError, APIError, RateLimitError, Timeout, APIConnectionError
+from openai import OpenAI
 
 from static import *
 from get_user_reviews import *
@@ -81,7 +81,7 @@ if "response_too_long" not in st.session_state:
     st.session_state.response_too_long = False
 
 max_response_length = 40
-def add_response(max_response_length = max_response_length, n = 10):
+def add_response(max_response_length = max_response_length):
     response = st.session_state.response_input.strip()
     response_list = st.session_state.response_dict[st.session_state.question_suggestion]
 
@@ -89,7 +89,7 @@ def add_response(max_response_length = max_response_length, n = 10):
         if response in response_list:
             st.session_state.response_input = ""  # Clear input
             st.session_state.response_too_long = False
-        elif len(response_list) < n:
+        elif len(response_list) < 5:
             if len(response) <= max_response_length:
                 response_list.append(response)
                 st.session_state.response_input = ""  # Clear input
@@ -177,27 +177,8 @@ def survey_results(survey_response, instructions = prompt_instructions, dict_ins
 
     try:
         response = call_openai_api(survey_response, instructions, dict_instructions, client, model)
-    except Timeout:
-        st.write("Request timed out after 10 seconds.")
-        logging.error("Request timed out after 10 seconds.")
-        return empty_genre_dict, error_prompt_msg
-    except RateLimitError:
-        st.write("Rate limit hit. Try again later.")
-        logging.error("Rate limit hit. Try again later.")
-        return empty_genre_dict, error_prompt_msg
-    except APIError as e:
-        st.write("API error. Try again later.")
-        logging.error("API error. Try again later.")
-        return empty_genre_dict, error_prompt_msg
-    except APIConnectionError:
-        st.write("API connection error. Try again later.")
-        logging.error("API connection error. Try again later.")
-        return empty_genre_dict, error_prompt_msg
-    except OpenAIError as e:
-        st.write("Function error. Try again later.")
-        logging.error("Function error. Try again later.")
-        return empty_genre_dict, error_prompt_msg
-    
+    except Exception as e:
+        st.write(e)
     
     genre_preds_dict, genre_preds_blurb = parse_llm_output(response)
 
@@ -311,7 +292,7 @@ with left_column:
                     st.button("Clear", on_click=clear_responses)
             
             if st.session_state.too_many_responses:
-                st.write("You may only enter up to 10 responses.")
+                st.write("You may only enter up to 5 responses.")
 
             if st.session_state.response_too_long:
                 st.write(f"Please keep your response under {max_response_length} characters")

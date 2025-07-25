@@ -16502,3 +16502,538 @@
  2025-07-25 18:16:56,323 -  DEBUG -  STREAM b'sRGB' 62 1
  2025-07-25 18:16:56,323 -  DEBUG -  STREAM b'gAMA' 75 4
  2025-07-25 18:16:56,323 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:24,608 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,608 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:24,608 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:24,609 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:24,609 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,609 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:24,609 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:24,609 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,644 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:24,645 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:24,645 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:24,645 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:24,774 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:24,775 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:26,883 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:26,888 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:26,888 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:26,888 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:26,888 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:26,888 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:26,889 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:26,889 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:26,924 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:26,924 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:26,924 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:26,925 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:26,925 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:26,925 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:26,926 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:26,926 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:26,926 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:26,926 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:27,073 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:30,945 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:30,947 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:30,989 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:30,989 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:30,989 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:30,990 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:30,990 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:30,990 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:30,990 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:30,990 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:30,991 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:30,991 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:31,127 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:32,123 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:32,124 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:32,157 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,158 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:32,158 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:32,159 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:32,159 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:32,303 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,303 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:32,303 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:32,303 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:32,303 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:32,305 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:32,305 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:32,305 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:32,305 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:32,305 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:35,909 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:35,909 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:35,909 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:35,910 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:35,910 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:35,910 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:38:35,910 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:38:35,910 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:35,953 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:38:36,075 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:38:36,079 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:38:37,049 -  DEBUG -  Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-61785d56-a89d-4c8b-b4f2-33c4b2dcb6c3', 'json_data': {'messages': [{'role': 'system', 'content': 'You are an AI assistant designed to output only JSON objects.'}, {'role': 'user', 'content': '\nUse the following user profile and responses to predict their book genre preferences.\n\nReturn your result as a single **JSON object** with the following two fields:\n\n1. "predictions": A dictionary of genre scores (0–50) in this exact format:\n{\n    "Classics": 0,\n    "Contemporary": 0,\n    "Fantasy": 0,\n    "Historical Fiction": 0,\n    "Horror": 0,\n    "Mystery": 0,\n    "Romance": 0,\n    "Science Fiction": 0,\n    "Young Adult": 0,\n    "Art": 0,\n    "Biography": 0,\n    "Business": 0,\n    "History": 0,\n    "Music": 0,\n    "Philosophy": 0,\n    "Psychology": 0,\n    "Science": 0,\n    "Self Help": 0\n}\n\n2. "explanation": 2-3 sentences (30-40 words) that explains the reasoning behind the scores in a simple, warm, and thoughtful tone. \nThe explanation should be down-to-earth, penetrating, and insightful — like a friend who understands the user\'s taste in books.\n\nBe specific. Provide sharp, detailed, insights that go beneath the surface or what\'s obvious. \nAvoid cliche pedantic or vague words phrases like \'sociopolitical\' or \'thought-provoking themes\'\nDig deeper into the underlying contents of the user\'s response instead of providing surface-level observations.\n\nE.g. 1984 themes might include:\nTotalitarianism and Absolute Power, Surveillance and Loss of Privacy, Reality Control / Manipulation of Truth\n(which is much more specific than dystopian future)\n\nDO NOT CITE RESPONSES/CONTENT THAT THE USER DID NOT INCLUDE.\n\nDo not try to be melodramatic or poetic or emotionally over the top. Stick to intelligent but colloquial language.\nDo not use overly strong words (e.g. use interest instead of love)\nAvoid sounding dramatic, overly intellectual, pedantic, pretentious, or flowery.\n\nProvide suggestions, rather than strong statements about the user\'s preferences.\nE.g. Use "suggests", "points to", "hints at" or "you seem to enjoy" rather than "you are drawn to" or "you like"\n\nLearn from the good examples and avoid sounding like the bad examples provided below. \nExamples:\n\n1. Information: Genre preference = fiction, user question = some of my favorite books include, response = Dune, 1984, Catcher in the Rye, Crime and Punishment\n\n   Great response: Your mix of favorites—Dune, 1984, Catcher in the Rye, and Crime and Punishment—suggests you’re drawn to layered stories that wrestle with power, \n   alienation, and individual agency. The combination hints at an interest in both big-picture systems \n   (like science fiction and philosophy) and internal emotional depth \n   (especially psychology and the classics). There’s also a thread of introspection and \n   critique running through these works that points to a taste for stories that dig \n   beneath the surface rather than settle for easy answers.\n\n   Weaker response: Your favorites, from classics like Catcher in the Rye and dystopian tales like 1984, \n   hint at a keen interest in thought-provoking stories. The blend of science fiction and philosophy shines in \n   your choice of Dune and Prelude to Foundation, suggesting you enjoy narratives that explore complex societies \n   and futuristic possibilities.\n\n   Why: The 1st response offers sharper, more specific topics such as power, alienation, individual agency.\n   The 2nd response lacks the same penetrating insight. While \'complex societies, \'futuristic possibilities\'\n   is relevant, it is relatively vague and doesn\'t provide deeper insight.\n\n2. Information: Genre preference = fiction, user question = some of my favorite books include, response = Wisdom of Insecurity, Brave New World\n\n   Example response: "Your interest in The Wisdom of Insecurity and Brave New World suggests you enjoy books that explore the tension between \n   modern life, identity, and control — through both philosophical inquiry and imaginative futures. \n   Philosophy and psychology seem to stand out, with science fiction offering a compelling lens for abstract ideas to play out in concrete worlds."\n\n   Why it\'s great: "modern life, identity, control through philosophical inquiry" is very specific and nuanced and at the same time not pedantic\n   or condescending. Your tone is insightful, sharp, yet polite, amiable, and unoffensive.\n\n3. Information: Genre preference = Both, User Question: I am in the mood for, response: a thoughtful scifi novel i can read on my flight from London to NY\n\n    Ideal response: Since you\'re in the mood for a thoughtful sci-fi novel on your flight, \n    something reflective and absorbing might be a good fit—stories that invite quiet curiosity and philosophical wondering. \n    The Left Hand of Darkness by Ursula K. Le Guin could be a great pick.\n\n    Bad response: Your interest in a thoughtful sci-fi novel for your flight hints at an appreciation for science fiction with depth and meaning. \n    The mix of thrilling speculation and philosophical context suggests intriguing narratives capturing your imagination on long journeys.\n\n    Why: The first response understands that the user is simply asking for a suggestion based on a fleeting mood, while the second response\n    mistakenly tries to project permanent beliefs or assumptions about the user.\n\n4.  Information: Genre preference = Fiction, user question = I am in the mood for, response = The Old Man and the Sea, Dune, 1984, Brave New World, Dr Jekyll and Mr. Hyde\n\n    Great response: Your interest in adventure and romance, paired with a relaxing mood, suggests you\'re in the mood for light, engaging stories with emotional warmth. \n    A mix of fantasy and young adult might suit you well.\n\n    Bad response: Your interest in adventure and romance suggests a desire for stories that are both engaging and emotionally resonant. The mention of a relaxing read \n    for a rainy day hints at preferences for a mix of fantasy and young adult genres, where charming escapades and heartfelt moments unfold with ease.\n\n    Why: The first response is simple, to the point, and unpretentious. The second response is melodramatic, over-the-top, and uses\n    unnecessarily emotional words like "escapade" and "heartfelt moments". \n\n\n5. Information: Genre preference = Both, user question = Fictional characters I want to be like, response = Paul Atreides, James Bond\n  \n   Example: Wanting to be like Paul Atreides and James Bond points to an interest in characters who navigate high-stakes worlds with \n   sharp strategy, inner discipline, and a sense of control. \n   Science fiction and mystery seem to stand out, with some overlap in fantasy and philosophy where \n   ideas of power, identity, and purpose come into play.\n\n   Why: "High-stakes worlds, sharp strategy, inner discipline" are striking accurate relevant observations.\n         "Overlap" shows you are being thoughtful of other possibilities, and you back that up with\n         evidence (ideas of power, identity, purpose)\n\nIf the user\'s response seems irrelevant/nonsensical, include a gentle note in the explanation saying the prediction may be less accurate.\nIf the user\'s response seems relevant but you don\'t understand it, politely say so. \n\nExample: "The response didn’t give much to work with, so these predictions are a bit of a guess. \n          Based on your preference in fiction, I\'ve tailored your genres so that it leans slightly toward popular fiction genres."\n\nFormat (stick to it strictly):\n{\n  "predictions": { ... },\n  "explanation": "..."\n}\n\nOnly return valid JSON. Do not include any markdown, code formatting, or comments.\n\n    Name: Jamie \n\n    Genre Preference: Both fiction and non-fiction \n\n    User Question: Some of my favorite books include \n\n    User\'s Response: Dune, 1984, Art of War \n\n    \nGenre values instructions:\n- You must all allocate at least 150 points. \n- Allocate at least 30 points to at least 3 genres\n- Allocate at least 15 points to at least 3 more genres\n- Allocate at least 5 points to at least 3 more different genres.\n- Capture the complexities and connections between the user\'s response\'s \n\nFor example, Dune is primarily science fiction but also has elements of \nstrategy, warfare, religion, politics etc. so allocate points to genres besides science fiction\n\nExamples:\n\nbeth_harmon_dict = { \n    "Classics": 20,           # She\'s chess-obsessed and often reads older texts\n    "Contemporary": 45,       # Her internal world is very modern/emotional\n    "Fantasy": 15,            # The ceiling chessboard is her personal fantasy realm\n    "Historical Fiction": 30, # Set in the 60s; period themes matter\n    "Horror": 10,             # Her addiction and trauma add a psychological edge\n    "Mystery": 40,            # She’s enigmatic and surrounded by personal mystery\n    "Romance": 25,            # Romance exists, but it’s complicated and backgrounded\n    "Science Fiction": 5,     # Not a strong connection\n    "Young Adult": 40,        # Coming-of-age journey with intense self-discovery\n    "Art": 10,                # Chess is her art; she’s elegant and expressive\n    "Biography": 35,          # She *is* a character you\'d read a biography about\n    "Business": 5,            # Minimal relevance, but she does think tactically\n    "History": 20,            # Contextually relevant, especially Cold War tension\n    "Music": 10,              # Music accompanies her internal mood\n    "Philosophy": 25,         # She questions identity, purpose, genius\n    "Psychology": 45,         # Huge theme: trauma, addiction, orphanhood\n    "Science": 5,             # Light relevance, more analytical than scientific\n    "Self Help": 10,          # There’s an underlying theme of personal growth\n}\n\n\ncoach_carter_dict = { \n    "Classics": 10,            # He respects tradition and foundational values\n    "Contemporary": 40,        # Lives in a modern world with relevant social themes\n    "Fantasy": 0,              # Very grounded, real-world character\n    "Historical Fiction": 2,   # Story reflects real social struggles but isn\'t period-based\n    "Horror": 0,               # No connection\n    "Mystery": 0,              # Clear and direct personality\n    "Romance": 10,             # Light family/relationship themes but not central\n    "Science Fiction": 0,      # Not relevant at all\n    "Young Adult": 0,         # Mentoring teens is central to his character\n    "Art": 6,                  # Slight appreciation—sports can be seen as artful\n    "Biography": 48,           # Based on a real person; deeply inspiring life\n    "Business": 37,            # Teaches responsibility, contracts, discipline—business mindset\n    "History": 44,             # Connects to ongoing racial and societal history\n    "Music": 8,               # Background element in culture and environment\n    "Philosophy": 33,          # Strong personal code of ethics and discipline\n    "Psychology": 40,          # Deeply understands and influences young minds\n    "Science": 0,              # Not part of his world\n    "Self Help": 45,           # Personal development and accountability are his core themes\n}\n\n\n'}], 'model': 'gpt-4o', 'response_format': {'type': 'json_object'}}}
+ 2025-07-25 18:38:37,140 -  DEBUG -  Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+ 2025-07-25 18:38:37,140 -  DEBUG -  connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+ 2025-07-25 18:38:37,226 -  DEBUG -  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002072D9AFA10>
+ 2025-07-25 18:38:37,227 -  DEBUG -  start_tls.started ssl_context=<ssl.SSLContext object at 0x000002072CC0A5D0> server_hostname='api.openai.com' timeout=5.0
+ 2025-07-25 18:38:37,273 -  DEBUG -  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002072FFA60F0>
+ 2025-07-25 18:38:37,273 -  DEBUG -  send_request_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:38:37,273 -  DEBUG -  send_request_headers.complete
+ 2025-07-25 18:38:37,273 -  DEBUG -  send_request_body.started request=<Request [b'POST']>
+ 2025-07-25 18:38:37,273 -  DEBUG -  send_request_body.complete
+ 2025-07-25 18:38:37,273 -  DEBUG -  receive_response_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:38:37,590 -  DEBUG -  receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Fri, 25 Jul 2025 17:38:38 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'414'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_fa341c6b5508cdff6d23ec95505880f7'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=vUsKLhgPAgYyFhoJGV0eN6w4qVisAvhkfkq.1sziiM4-1753465118-1.0.1.1-kyszVZDGphYXGB.G_1o68.yGAt3.RLd34AGEItG.Gi0Cj6SNyxBEngane3GXmnODiFJeMx8afjBSA0UZgZpWlhoVNrLOhb9bMKddnhnmuJk; path=/; expires=Fri, 25-Jul-25 18:08:38 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=Vsz.AhrDShRt.waDKYrAmFwZWJIeUtbgadftQvPAT54-1753465118532-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'964d6e9d4d8f6054-LHR'), (b'alt-svc', b'h3=":443"; ma=86400')])
+ 2025-07-25 18:38:37,592 -  INFO -  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+ 2025-07-25 18:38:37,592 -  DEBUG -  receive_response_body.started request=<Request [b'POST']>
+ 2025-07-25 18:38:37,593 -  DEBUG -  receive_response_body.complete
+ 2025-07-25 18:38:37,593 -  DEBUG -  response_closed.started
+ 2025-07-25 18:38:37,593 -  DEBUG -  response_closed.complete
+ 2025-07-25 18:38:37,594 -  DEBUG -  HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers([('date', 'Fri, 25 Jul 2025 17:38:38 GMT'), ('content-type', 'application/json; charset=utf-8'), ('content-length', '414'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_fa341c6b5508cdff6d23ec95505880f7'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=vUsKLhgPAgYyFhoJGV0eN6w4qVisAvhkfkq.1sziiM4-1753465118-1.0.1.1-kyszVZDGphYXGB.G_1o68.yGAt3.RLd34AGEItG.Gi0Cj6SNyxBEngane3GXmnODiFJeMx8afjBSA0UZgZpWlhoVNrLOhb9bMKddnhnmuJk; path=/; expires=Fri, 25-Jul-25 18:08:38 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=Vsz.AhrDShRt.waDKYrAmFwZWJIeUtbgadftQvPAT54-1753465118532-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '964d6e9d4d8f6054-LHR'), ('alt-svc', 'h3=":443"; ma=86400')])
+ 2025-07-25 18:38:37,594 -  DEBUG -  request_id: req_fa341c6b5508cdff6d23ec95505880f7
+ 2025-07-25 18:38:37,594 -  DEBUG -  Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1017, in request
+    response.raise_for_status()
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+ 2025-07-25 18:38:37,598 -  DEBUG -  Not retrying
+ 2025-07-25 18:38:37,604 -  DEBUG -  Re-raising status error
+ 2025-07-25 18:39:19,875 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:19,876 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:19,876 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:19,876 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:19,876 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:19,877 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:19,877 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:19,877 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:19,907 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:19,911 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:20,040 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:20,046 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:20,046 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:22,078 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,078 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:22,079 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:22,114 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:22,251 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:25,640 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:25,686 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:25,835 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:26,733 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,737 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:26,737 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:26,737 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:26,738 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,738 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:26,738 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:26,738 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:26,777 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:26,914 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:26,919 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:26,919 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:26,919 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:26,919 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:28,945 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:28,951 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:28,989 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:28,990 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:28,990 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:28,991 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:28,992 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:29,139 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:30,473 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,473 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:30,473 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:30,473 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:30,473 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,476 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:39:30,476 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:39:30,476 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:39:30,508 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,508 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:30,508 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:30,509 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:30,653 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,653 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:30,653 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:30,653 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:30,653 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:30,654 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:39:30,654 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:39:30,654 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:39:30,655 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:39:30,655 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:39:31,621 -  DEBUG -  Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-5cbbf97d-43d3-4952-9a27-d237847ca74f', 'json_data': {'messages': [{'role': 'system', 'content': 'You are an AI assistant designed to output only JSON objects.'}, {'role': 'user', 'content': '\nUse the following user profile and responses to predict their book genre preferences.\n\nReturn your result as a single **JSON object** with the following two fields:\n\n1. "predictions": A dictionary of genre scores (0–50) in this exact format:\n{\n    "Classics": 0,\n    "Contemporary": 0,\n    "Fantasy": 0,\n    "Historical Fiction": 0,\n    "Horror": 0,\n    "Mystery": 0,\n    "Romance": 0,\n    "Science Fiction": 0,\n    "Young Adult": 0,\n    "Art": 0,\n    "Biography": 0,\n    "Business": 0,\n    "History": 0,\n    "Music": 0,\n    "Philosophy": 0,\n    "Psychology": 0,\n    "Science": 0,\n    "Self Help": 0\n}\n\n2. "explanation": 2-3 sentences (30-40 words) that explains the reasoning behind the scores in a simple, warm, and thoughtful tone. \nThe explanation should be down-to-earth, penetrating, and insightful — like a friend who understands the user\'s taste in books.\n\nBe specific. Provide sharp, detailed, insights that go beneath the surface or what\'s obvious. \nAvoid cliche pedantic or vague words phrases like \'sociopolitical\' or \'thought-provoking themes\'\nDig deeper into the underlying contents of the user\'s response instead of providing surface-level observations.\n\nE.g. 1984 themes might include:\nTotalitarianism and Absolute Power, Surveillance and Loss of Privacy, Reality Control / Manipulation of Truth\n(which is much more specific than dystopian future)\n\nDO NOT CITE RESPONSES/CONTENT THAT THE USER DID NOT INCLUDE.\n\nDo not try to be melodramatic or poetic or emotionally over the top. Stick to intelligent but colloquial language.\nDo not use overly strong words (e.g. use interest instead of love)\nAvoid sounding dramatic, overly intellectual, pedantic, pretentious, or flowery.\n\nProvide suggestions, rather than strong statements about the user\'s preferences.\nE.g. Use "suggests", "points to", "hints at" or "you seem to enjoy" rather than "you are drawn to" or "you like"\n\nLearn from the good examples and avoid sounding like the bad examples provided below. \nExamples:\n\n1. Information: Genre preference = fiction, user question = some of my favorite books include, response = Dune, 1984, Catcher in the Rye, Crime and Punishment\n\n   Great response: Your mix of favorites—Dune, 1984, Catcher in the Rye, and Crime and Punishment—suggests you’re drawn to layered stories that wrestle with power, \n   alienation, and individual agency. The combination hints at an interest in both big-picture systems \n   (like science fiction and philosophy) and internal emotional depth \n   (especially psychology and the classics). There’s also a thread of introspection and \n   critique running through these works that points to a taste for stories that dig \n   beneath the surface rather than settle for easy answers.\n\n   Weaker response: Your favorites, from classics like Catcher in the Rye and dystopian tales like 1984, \n   hint at a keen interest in thought-provoking stories. The blend of science fiction and philosophy shines in \n   your choice of Dune and Prelude to Foundation, suggesting you enjoy narratives that explore complex societies \n   and futuristic possibilities.\n\n   Why: The 1st response offers sharper, more specific topics such as power, alienation, individual agency.\n   The 2nd response lacks the same penetrating insight. While \'complex societies, \'futuristic possibilities\'\n   is relevant, it is relatively vague and doesn\'t provide deeper insight.\n\n2. Information: Genre preference = fiction, user question = some of my favorite books include, response = Wisdom of Insecurity, Brave New World\n\n   Example response: "Your interest in The Wisdom of Insecurity and Brave New World suggests you enjoy books that explore the tension between \n   modern life, identity, and control — through both philosophical inquiry and imaginative futures. \n   Philosophy and psychology seem to stand out, with science fiction offering a compelling lens for abstract ideas to play out in concrete worlds."\n\n   Why it\'s great: "modern life, identity, control through philosophical inquiry" is very specific and nuanced and at the same time not pedantic\n   or condescending. Your tone is insightful, sharp, yet polite, amiable, and unoffensive.\n\n3. Information: Genre preference = Both, User Question: I am in the mood for, response: a thoughtful scifi novel i can read on my flight from London to NY\n\n    Ideal response: Since you\'re in the mood for a thoughtful sci-fi novel on your flight, \n    something reflective and absorbing might be a good fit—stories that invite quiet curiosity and philosophical wondering. \n    The Left Hand of Darkness by Ursula K. Le Guin could be a great pick.\n\n    Bad response: Your interest in a thoughtful sci-fi novel for your flight hints at an appreciation for science fiction with depth and meaning. \n    The mix of thrilling speculation and philosophical context suggests intriguing narratives capturing your imagination on long journeys.\n\n    Why: The first response understands that the user is simply asking for a suggestion based on a fleeting mood, while the second response\n    mistakenly tries to project permanent beliefs or assumptions about the user.\n\n4.  Information: Genre preference = Fiction, user question = I am in the mood for, response = The Old Man and the Sea, Dune, 1984, Brave New World, Dr Jekyll and Mr. Hyde\n\n    Great response: Your interest in adventure and romance, paired with a relaxing mood, suggests you\'re in the mood for light, engaging stories with emotional warmth. \n    A mix of fantasy and young adult might suit you well.\n\n    Bad response: Your interest in adventure and romance suggests a desire for stories that are both engaging and emotionally resonant. The mention of a relaxing read \n    for a rainy day hints at preferences for a mix of fantasy and young adult genres, where charming escapades and heartfelt moments unfold with ease.\n\n    Why: The first response is simple, to the point, and unpretentious. The second response is melodramatic, over-the-top, and uses\n    unnecessarily emotional words like "escapade" and "heartfelt moments". \n\n\n5. Information: Genre preference = Both, user question = Fictional characters I want to be like, response = Paul Atreides, James Bond\n  \n   Example: Wanting to be like Paul Atreides and James Bond points to an interest in characters who navigate high-stakes worlds with \n   sharp strategy, inner discipline, and a sense of control. \n   Science fiction and mystery seem to stand out, with some overlap in fantasy and philosophy where \n   ideas of power, identity, and purpose come into play.\n\n   Why: "High-stakes worlds, sharp strategy, inner discipline" are striking accurate relevant observations.\n         "Overlap" shows you are being thoughtful of other possibilities, and you back that up with\n         evidence (ideas of power, identity, purpose)\n\nIf the user\'s response seems irrelevant/nonsensical, include a gentle note in the explanation saying the prediction may be less accurate.\nIf the user\'s response seems relevant but you don\'t understand it, politely say so. \n\nExample: "The response didn’t give much to work with, so these predictions are a bit of a guess. \n          Based on your preference in fiction, I\'ve tailored your genres so that it leans slightly toward popular fiction genres."\n\nFormat (stick to it strictly):\n{\n  "predictions": { ... },\n  "explanation": "..."\n}\n\nOnly return valid JSON. Do not include any markdown, code formatting, or comments.\n\n    Name: Jamie \n\n    Genre Preference: Both fiction and non-fiction \n\n    User Question: Some of my favorite books include \n\n    User\'s Response: Dune, 1984, art of war \n\n    \nGenre values instructions:\n- You must all allocate at least 150 points. \n- Allocate at least 30 points to at least 3 genres\n- Allocate at least 15 points to at least 3 more genres\n- Allocate at least 5 points to at least 3 more different genres.\n- Capture the complexities and connections between the user\'s response\'s \n\nFor example, Dune is primarily science fiction but also has elements of \nstrategy, warfare, religion, politics etc. so allocate points to genres besides science fiction\n\nExamples:\n\nbeth_harmon_dict = { \n    "Classics": 20,           # She\'s chess-obsessed and often reads older texts\n    "Contemporary": 45,       # Her internal world is very modern/emotional\n    "Fantasy": 15,            # The ceiling chessboard is her personal fantasy realm\n    "Historical Fiction": 30, # Set in the 60s; period themes matter\n    "Horror": 10,             # Her addiction and trauma add a psychological edge\n    "Mystery": 40,            # She’s enigmatic and surrounded by personal mystery\n    "Romance": 25,            # Romance exists, but it’s complicated and backgrounded\n    "Science Fiction": 5,     # Not a strong connection\n    "Young Adult": 40,        # Coming-of-age journey with intense self-discovery\n    "Art": 10,                # Chess is her art; she’s elegant and expressive\n    "Biography": 35,          # She *is* a character you\'d read a biography about\n    "Business": 5,            # Minimal relevance, but she does think tactically\n    "History": 20,            # Contextually relevant, especially Cold War tension\n    "Music": 10,              # Music accompanies her internal mood\n    "Philosophy": 25,         # She questions identity, purpose, genius\n    "Psychology": 45,         # Huge theme: trauma, addiction, orphanhood\n    "Science": 5,             # Light relevance, more analytical than scientific\n    "Self Help": 10,          # There’s an underlying theme of personal growth\n}\n\n\ncoach_carter_dict = { \n    "Classics": 10,            # He respects tradition and foundational values\n    "Contemporary": 40,        # Lives in a modern world with relevant social themes\n    "Fantasy": 0,              # Very grounded, real-world character\n    "Historical Fiction": 2,   # Story reflects real social struggles but isn\'t period-based\n    "Horror": 0,               # No connection\n    "Mystery": 0,              # Clear and direct personality\n    "Romance": 10,             # Light family/relationship themes but not central\n    "Science Fiction": 0,      # Not relevant at all\n    "Young Adult": 0,         # Mentoring teens is central to his character\n    "Art": 6,                  # Slight appreciation—sports can be seen as artful\n    "Biography": 48,           # Based on a real person; deeply inspiring life\n    "Business": 37,            # Teaches responsibility, contracts, discipline—business mindset\n    "History": 44,             # Connects to ongoing racial and societal history\n    "Music": 8,               # Background element in culture and environment\n    "Philosophy": 33,          # Strong personal code of ethics and discipline\n    "Psychology": 40,          # Deeply understands and influences young minds\n    "Science": 0,              # Not part of his world\n    "Self Help": 45,           # Personal development and accountability are his core themes\n}\n\n\n'}], 'model': 'gpt-4o', 'response_format': {'type': 'json_object'}}}
+ 2025-07-25 18:39:31,712 -  DEBUG -  Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+ 2025-07-25 18:39:31,712 -  DEBUG -  connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+ 2025-07-25 18:39:31,778 -  DEBUG -  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000018F041CD340>
+ 2025-07-25 18:39:31,778 -  DEBUG -  start_tls.started ssl_context=<ssl.SSLContext object at 0x0000018F7ECA2950> server_hostname='api.openai.com' timeout=5.0
+ 2025-07-25 18:39:31,831 -  DEBUG -  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000018F21EA5880>
+ 2025-07-25 18:39:31,832 -  DEBUG -  send_request_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:39:31,832 -  DEBUG -  send_request_headers.complete
+ 2025-07-25 18:39:31,832 -  DEBUG -  send_request_body.started request=<Request [b'POST']>
+ 2025-07-25 18:39:31,832 -  DEBUG -  send_request_body.complete
+ 2025-07-25 18:39:31,832 -  DEBUG -  receive_response_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:39:32,161 -  DEBUG -  receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Fri, 25 Jul 2025 17:39:33 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'414'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_b66362d4bfa57a137d9ab2c70114c2a3'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=VpU4nXaxTKQj.W79Y55_kgSWwv4tPyGp8TuWvPKpOt4-1753465173-1.0.1.1-I0AFwDWDKFELs_XgJwbqRP5EAOWlV9hbkZbRyuMYia_LCtkwnF3N3ZMMepxMGuRm3IaQOKXBsg9YR6Q2LdSHUJ9OLj55Z4qJWtFqaSTHcPU; path=/; expires=Fri, 25-Jul-25 18:09:33 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=GvsYZeIJ2zyOyhEI7gqiSBA6p0s5s7P1KhqkBGrSAKM-1753465173063-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'964d6ff24de79833-LHR'), (b'alt-svc', b'h3=":443"; ma=86400')])
+ 2025-07-25 18:39:32,161 -  INFO -  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+ 2025-07-25 18:39:32,166 -  DEBUG -  receive_response_body.started request=<Request [b'POST']>
+ 2025-07-25 18:39:32,166 -  DEBUG -  receive_response_body.complete
+ 2025-07-25 18:39:32,166 -  DEBUG -  response_closed.started
+ 2025-07-25 18:39:32,166 -  DEBUG -  response_closed.complete
+ 2025-07-25 18:39:32,166 -  DEBUG -  HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers([('date', 'Fri, 25 Jul 2025 17:39:33 GMT'), ('content-type', 'application/json; charset=utf-8'), ('content-length', '414'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_b66362d4bfa57a137d9ab2c70114c2a3'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=VpU4nXaxTKQj.W79Y55_kgSWwv4tPyGp8TuWvPKpOt4-1753465173-1.0.1.1-I0AFwDWDKFELs_XgJwbqRP5EAOWlV9hbkZbRyuMYia_LCtkwnF3N3ZMMepxMGuRm3IaQOKXBsg9YR6Q2LdSHUJ9OLj55Z4qJWtFqaSTHcPU; path=/; expires=Fri, 25-Jul-25 18:09:33 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=GvsYZeIJ2zyOyhEI7gqiSBA6p0s5s7P1KhqkBGrSAKM-1753465173063-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '964d6ff24de79833-LHR'), ('alt-svc', 'h3=":443"; ma=86400')])
+ 2025-07-25 18:39:32,166 -  DEBUG -  request_id: req_b66362d4bfa57a137d9ab2c70114c2a3
+ 2025-07-25 18:39:32,166 -  DEBUG -  Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1017, in request
+    response.raise_for_status()
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+ 2025-07-25 18:39:32,166 -  DEBUG -  Not retrying
+ 2025-07-25 18:39:32,166 -  DEBUG -  Re-raising status error
+ 2025-07-25 18:48:35,684 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:35,685 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:35,711 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:35,788 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:35,789 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:37,102 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,102 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:37,103 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:37,120 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,120 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:37,121 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:37,180 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:37,181 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:39,647 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:39,665 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:39,667 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:39,730 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,730 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:39,731 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:40,584 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:40,585 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:40,601 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:40,666 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,666 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:40,667 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'tEXt' 41 25
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'iTXt' 78 788
+ 2025-07-25 18:48:43,097 -  DEBUG -  STREAM b'IDAT' 878 437910
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:43,111 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:43,176 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'IHDR' 16 13
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'pHYs' 41 9
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'sRGB' 62 1
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'gAMA' 75 4
+ 2025-07-25 18:48:43,177 -  DEBUG -  STREAM b'IDAT' 91 99257
+ 2025-07-25 18:48:44,129 -  DEBUG -  Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-c1cef9a3-4819-49b7-aa61-52634702ec0b', 'json_data': {'messages': [{'role': 'system', 'content': 'You are an AI assistant designed to output only JSON objects.'}, {'role': 'user', 'content': '\nUse the following user profile and responses to predict their book genre preferences.\n\nReturn your result as a single **JSON object** with the following two fields:\n\n1. "predictions": A dictionary of genre scores (0–50) in this exact format:\n{\n    "Classics": 0,\n    "Contemporary": 0,\n    "Fantasy": 0,\n    "Historical Fiction": 0,\n    "Horror": 0,\n    "Mystery": 0,\n    "Romance": 0,\n    "Science Fiction": 0,\n    "Young Adult": 0,\n    "Art": 0,\n    "Biography": 0,\n    "Business": 0,\n    "History": 0,\n    "Music": 0,\n    "Philosophy": 0,\n    "Psychology": 0,\n    "Science": 0,\n    "Self Help": 0\n}\n\n2. "explanation": 2-3 sentences (30-40 words) that explains the reasoning behind the scores in a simple, warm, and thoughtful tone. \nThe explanation should be down-to-earth, penetrating, and insightful — like a friend who understands the user\'s taste in books.\n\nBe specific. Provide sharp, detailed, insights that go beneath the surface or what\'s obvious. \nAvoid cliche pedantic or vague words phrases like \'sociopolitical\' or \'thought-provoking themes\'\nDig deeper into the underlying contents of the user\'s response instead of providing surface-level observations.\n\nE.g. 1984 themes might include:\nTotalitarianism and Absolute Power, Surveillance and Loss of Privacy, Reality Control / Manipulation of Truth\n(which is much more specific than dystopian future)\n\nDO NOT CITE RESPONSES/CONTENT THAT THE USER DID NOT INCLUDE.\n\nDo not try to be melodramatic or poetic or emotionally over the top. Stick to intelligent but colloquial language.\nDo not use overly strong words (e.g. use interest instead of love)\nAvoid sounding dramatic, overly intellectual, pedantic, pretentious, or flowery.\n\nProvide suggestions, rather than strong statements about the user\'s preferences.\nE.g. Use "suggests", "points to", "hints at" or "you seem to enjoy" rather than "you are drawn to" or "you like"\n\nLearn from the good examples and avoid sounding like the bad examples provided below. \nExamples:\n\n1. Information: Genre preference = fiction, user question = some of my favorite books include, response = Dune, 1984, Catcher in the Rye, Crime and Punishment\n\n   Great response: Your mix of favorites—Dune, 1984, Catcher in the Rye, and Crime and Punishment—suggests you’re drawn to layered stories that wrestle with power, \n   alienation, and individual agency. The combination hints at an interest in both big-picture systems \n   (like science fiction and philosophy) and internal emotional depth \n   (especially psychology and the classics). There’s also a thread of introspection and \n   critique running through these works that points to a taste for stories that dig \n   beneath the surface rather than settle for easy answers.\n\n   Weaker response: Your favorites, from classics like Catcher in the Rye and dystopian tales like 1984, \n   hint at a keen interest in thought-provoking stories. The blend of science fiction and philosophy shines in \n   your choice of Dune and Prelude to Foundation, suggesting you enjoy narratives that explore complex societies \n   and futuristic possibilities.\n\n   Why: The 1st response offers sharper, more specific topics such as power, alienation, individual agency.\n   The 2nd response lacks the same penetrating insight. While \'complex societies, \'futuristic possibilities\'\n   is relevant, it is relatively vague and doesn\'t provide deeper insight.\n\n2. Information: Genre preference = fiction, user question = some of my favorite books include, response = Wisdom of Insecurity, Brave New World\n\n   Example response: "Your interest in The Wisdom of Insecurity and Brave New World suggests you enjoy books that explore the tension between \n   modern life, identity, and control — through both philosophical inquiry and imaginative futures. \n   Philosophy and psychology seem to stand out, with science fiction offering a compelling lens for abstract ideas to play out in concrete worlds."\n\n   Why it\'s great: "modern life, identity, control through philosophical inquiry" is very specific and nuanced and at the same time not pedantic\n   or condescending. Your tone is insightful, sharp, yet polite, amiable, and unoffensive.\n\n3. Information: Genre preference = Both, User Question: I am in the mood for, response: a thoughtful scifi novel i can read on my flight from London to NY\n\n    Ideal response: Since you\'re in the mood for a thoughtful sci-fi novel on your flight, \n    something reflective and absorbing might be a good fit—stories that invite quiet curiosity and philosophical wondering. \n    The Left Hand of Darkness by Ursula K. Le Guin could be a great pick.\n\n    Bad response: Your interest in a thoughtful sci-fi novel for your flight hints at an appreciation for science fiction with depth and meaning. \n    The mix of thrilling speculation and philosophical context suggests intriguing narratives capturing your imagination on long journeys.\n\n    Why: The first response understands that the user is simply asking for a suggestion based on a fleeting mood, while the second response\n    mistakenly tries to project permanent beliefs or assumptions about the user.\n\n4.  Information: Genre preference = Fiction, user question = I am in the mood for, response = The Old Man and the Sea, Dune, 1984, Brave New World, Dr Jekyll and Mr. Hyde\n\n    Great response: Your interest in adventure and romance, paired with a relaxing mood, suggests you\'re in the mood for light, engaging stories with emotional warmth. \n    A mix of fantasy and young adult might suit you well.\n\n    Bad response: Your interest in adventure and romance suggests a desire for stories that are both engaging and emotionally resonant. The mention of a relaxing read \n    for a rainy day hints at preferences for a mix of fantasy and young adult genres, where charming escapades and heartfelt moments unfold with ease.\n\n    Why: The first response is simple, to the point, and unpretentious. The second response is melodramatic, over-the-top, and uses\n    unnecessarily emotional words like "escapade" and "heartfelt moments". \n\n\n5. Information: Genre preference = Both, user question = Fictional characters I want to be like, response = Paul Atreides, James Bond\n  \n   Example: Wanting to be like Paul Atreides and James Bond points to an interest in characters who navigate high-stakes worlds with \n   sharp strategy, inner discipline, and a sense of control. \n   Science fiction and mystery seem to stand out, with some overlap in fantasy and philosophy where \n   ideas of power, identity, and purpose come into play.\n\n   Why: "High-stakes worlds, sharp strategy, inner discipline" are striking accurate relevant observations.\n         "Overlap" shows you are being thoughtful of other possibilities, and you back that up with\n         evidence (ideas of power, identity, purpose)\n\nIf the user\'s response seems irrelevant/nonsensical, include a gentle note in the explanation saying the prediction may be less accurate.\nIf the user\'s response seems relevant but you don\'t understand it, politely say so. \n\nExample: "The response didn’t give much to work with, so these predictions are a bit of a guess. \n          Based on your preference in fiction, I\'ve tailored your genres so that it leans slightly toward popular fiction genres."\n\nFormat (stick to it strictly):\n{\n  "predictions": { ... },\n  "explanation": "..."\n}\n\nOnly return valid JSON. Do not include any markdown, code formatting, or comments.\n\n    Name: Jamie \n\n    Genre Preference: Both fiction and non-fiction \n\n    User Question: Some of my favorite books include \n\n    User\'s Response: Dune, 1984, Art of war \n\n    \nGenre values instructions:\n- You must all allocate at least 150 points. \n- Allocate at least 30 points to at least 3 genres\n- Allocate at least 15 points to at least 3 more genres\n- Allocate at least 5 points to at least 3 more different genres.\n- Capture the complexities and connections between the user\'s response\'s \n\nFor example, Dune is primarily science fiction but also has elements of \nstrategy, warfare, religion, politics etc. so allocate points to genres besides science fiction\n\nExamples:\n\nbeth_harmon_dict = { \n    "Classics": 20,           # She\'s chess-obsessed and often reads older texts\n    "Contemporary": 45,       # Her internal world is very modern/emotional\n    "Fantasy": 15,            # The ceiling chessboard is her personal fantasy realm\n    "Historical Fiction": 30, # Set in the 60s; period themes matter\n    "Horror": 10,             # Her addiction and trauma add a psychological edge\n    "Mystery": 40,            # She’s enigmatic and surrounded by personal mystery\n    "Romance": 25,            # Romance exists, but it’s complicated and backgrounded\n    "Science Fiction": 5,     # Not a strong connection\n    "Young Adult": 40,        # Coming-of-age journey with intense self-discovery\n    "Art": 10,                # Chess is her art; she’s elegant and expressive\n    "Biography": 35,          # She *is* a character you\'d read a biography about\n    "Business": 5,            # Minimal relevance, but she does think tactically\n    "History": 20,            # Contextually relevant, especially Cold War tension\n    "Music": 10,              # Music accompanies her internal mood\n    "Philosophy": 25,         # She questions identity, purpose, genius\n    "Psychology": 45,         # Huge theme: trauma, addiction, orphanhood\n    "Science": 5,             # Light relevance, more analytical than scientific\n    "Self Help": 10,          # There’s an underlying theme of personal growth\n}\n\n\ncoach_carter_dict = { \n    "Classics": 10,            # He respects tradition and foundational values\n    "Contemporary": 40,        # Lives in a modern world with relevant social themes\n    "Fantasy": 0,              # Very grounded, real-world character\n    "Historical Fiction": 2,   # Story reflects real social struggles but isn\'t period-based\n    "Horror": 0,               # No connection\n    "Mystery": 0,              # Clear and direct personality\n    "Romance": 10,             # Light family/relationship themes but not central\n    "Science Fiction": 0,      # Not relevant at all\n    "Young Adult": 0,         # Mentoring teens is central to his character\n    "Art": 6,                  # Slight appreciation—sports can be seen as artful\n    "Biography": 48,           # Based on a real person; deeply inspiring life\n    "Business": 37,            # Teaches responsibility, contracts, discipline—business mindset\n    "History": 44,             # Connects to ongoing racial and societal history\n    "Music": 8,               # Background element in culture and environment\n    "Philosophy": 33,          # Strong personal code of ethics and discipline\n    "Psychology": 40,          # Deeply understands and influences young minds\n    "Science": 0,              # Not part of his world\n    "Self Help": 45,           # Personal development and accountability are his core themes\n}\n\n\n'}], 'model': 'gpt-4o', 'response_format': {'type': 'json_object'}}}
+ 2025-07-25 18:48:44,191 -  DEBUG -  Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+ 2025-07-25 18:48:44,191 -  DEBUG -  connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+ 2025-07-25 18:48:44,283 -  DEBUG -  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000291AC2FDD30>
+ 2025-07-25 18:48:44,284 -  DEBUG -  start_tls.started ssl_context=<ssl.SSLContext object at 0x00000291A8D0A3D0> server_hostname='api.openai.com' timeout=5.0
+ 2025-07-25 18:48:44,346 -  DEBUG -  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000291ABDBF740>
+ 2025-07-25 18:48:44,346 -  DEBUG -  send_request_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:48:44,346 -  DEBUG -  send_request_headers.complete
+ 2025-07-25 18:48:44,346 -  DEBUG -  send_request_body.started request=<Request [b'POST']>
+ 2025-07-25 18:48:44,346 -  DEBUG -  send_request_body.complete
+ 2025-07-25 18:48:44,346 -  DEBUG -  receive_response_headers.started request=<Request [b'POST']>
+ 2025-07-25 18:48:44,619 -  DEBUG -  receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Fri, 25 Jul 2025 17:48:45 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'414'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_96e1819f05cc25fce0246084e3ce2e5f'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=ptcJ8SArCX57SG6zfjJGie3I3uxxFme3.7eYBR597Vg-1753465725-1.0.1.1-W2SRqb7.5s.j3zMJSsuqcnHCJDOcyYr9NL2TZbKVCGxRMYCwEDRk_pRqx8EkcuSXhGxSyZehPB63THl_JmOMcYog8XIheYZOE5cpKSFSOAM; path=/; expires=Fri, 25-Jul-25 18:18:45 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=MI6uwUz1qltkEtAe.9znAWJ1pFyKwGoGzUjyRobB4SY-1753465725575-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'964d7d6f8d2d63ae-LHR'), (b'alt-svc', b'h3=":443"; ma=86400')])
+ 2025-07-25 18:48:44,620 -  INFO -  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+ 2025-07-25 18:48:44,620 -  DEBUG -  receive_response_body.started request=<Request [b'POST']>
+ 2025-07-25 18:48:44,621 -  DEBUG -  receive_response_body.complete
+ 2025-07-25 18:48:44,621 -  DEBUG -  response_closed.started
+ 2025-07-25 18:48:44,621 -  DEBUG -  response_closed.complete
+ 2025-07-25 18:48:44,621 -  DEBUG -  HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers([('date', 'Fri, 25 Jul 2025 17:48:45 GMT'), ('content-type', 'application/json; charset=utf-8'), ('content-length', '414'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_96e1819f05cc25fce0246084e3ce2e5f'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=ptcJ8SArCX57SG6zfjJGie3I3uxxFme3.7eYBR597Vg-1753465725-1.0.1.1-W2SRqb7.5s.j3zMJSsuqcnHCJDOcyYr9NL2TZbKVCGxRMYCwEDRk_pRqx8EkcuSXhGxSyZehPB63THl_JmOMcYog8XIheYZOE5cpKSFSOAM; path=/; expires=Fri, 25-Jul-25 18:18:45 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=MI6uwUz1qltkEtAe.9znAWJ1pFyKwGoGzUjyRobB4SY-1753465725575-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '964d7d6f8d2d63ae-LHR'), ('alt-svc', 'h3=":443"; ma=86400')])
+ 2025-07-25 18:48:44,621 -  DEBUG -  request_id: req_96e1819f05cc25fce0246084e3ce2e5f
+ 2025-07-25 18:48:44,621 -  DEBUG -  Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\openai\_base_client.py", line 1017, in request
+    response.raise_for_status()
+  File "C:\Users\13477\AppData\Roaming\Python\Python312\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+ 2025-07-25 18:48:44,624 -  DEBUG -  Not retrying
+ 2025-07-25 18:48:44,624 -  DEBUG -  Re-raising status error
