@@ -478,3 +478,40 @@ def process_blurb(blurb: str, max_length: int = 400) -> str:
 def add_padding(text: str, n: int = 6) -> str:
     nbsp = "&nbsp;" * n
     return f"{nbsp}{text}{nbsp}"
+
+
+
+app_intro1 = """
+Have you ever wandered around a bookstore, with a vague inkling of what you want but not quite sure 
+where to look? Wouldn’t it be great if someone could just *magically* read your mind and suggest books
+you didn’t even know you were looking for?
+"""
+
+app_intro2 = """
+With Pocket Library, you can discover new books that resonate with your unique tastes – 
+sourced from reputable Goodreads users whose reading habits align with yours. You can bet these 
+suggestions are ones you can trust!  And besides…wouldn’t it be fun to know what books other 
+people loved that you’ve been missing out on?
+"""
+
+
+get_started1= """
+Enter a few quick responses into the dropdown panel on the left. 
+Your info will help us understand what books you might enjoy reading. 
+The more examples you give, the better!
+"""
+
+get_started2= """
+If you have a GoodReads account, enter your id into the left sidebar, 
+and we will use your reading activity to understand your preferences
+ (only if your account is public, of course).
+"""
+
+get_started3= """
+If you simply want to play around, feel free to try out one of the custom-made personalities in the sidebar! 
+You may find that one (or more) of these characters resonate with you!
+"""
+
+goodreads_intro = """
+All data comes from GoodReads - the world's largest public website for readers and books.
+"""

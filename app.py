@@ -24,9 +24,10 @@ def get_openai_client(api_key):
         st.session_state.openai_client = OpenAI(api_key=api_key)
     return st.session_state.openai_client   
 
-client = get_openai_client(st.secrets["OpenAI_key"])
 
-
+# client = get_openai_client(st.secrets["OpenAI_key"])
+openai_api_key = "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"
+client = get_openai_client(openai_api_key)
 
 st.set_page_config(page_title="Pocket Library", layout="wide")
 left_column, breaker, col_recommend = st.columns([4.5, 0.5, 6])
@@ -83,7 +84,7 @@ if "response_too_long" not in st.session_state:
     st.session_state.response_too_long = False
 
 max_response_length = 40
-def add_response(max_response_length = max_response_length):
+def add_response(max_response_length = max_response_length, n = 10):
     response = st.session_state.response_input.strip()
     response_list = st.session_state.response_dict[st.session_state.question_suggestion]
 
@@ -91,7 +92,7 @@ def add_response(max_response_length = max_response_length):
         if response in response_list:
             st.session_state.response_input = ""  # Clear input
             st.session_state.response_too_long = False
-        elif len(response_list) < 5:
+        elif len(response_list) < n:
             if len(response) <= max_response_length:
                 response_list.append(response)
                 st.session_state.response_input = ""  # Clear input
@@ -250,7 +251,7 @@ with left_column:
     
     st.write("")
     st.write("")
-    with st.expander("Tell me about you"):
+    with st.expander("Get started"):
         
         name_col, gender_col = st.columns([3,3])
         with name_col:
@@ -307,7 +308,7 @@ with left_column:
                     st.button("Clear", on_click=clear_responses)
             
             if st.session_state.too_many_responses:
-                st.write("You may only enter up to 5 responses.")
+                st.write("You may only enter up to 10 responses.")
 
             if st.session_state.response_too_long:
                 st.write(f"Please keep your response under {max_response_length} characters")
@@ -540,6 +541,44 @@ with col_recommend:
 
     st.title("📚 Your books")
     st.write("")
+
+    with st.expander("About this app"):
+        expander_dimensions = [2.5, 0.2, 1]
+        about_tab, how_tab = st.tabs(["Intro", "How to use"])
+
+        with about_tab: 
+            word_col, space_col, book_image_col = st.columns(expander_dimensions) 
+            
+            with word_col:
+                st.write("")
+                st.write("#### Pocket Library: the new way to discover books")
+                # st.write("*The new way to discover books)
+                st.write(app_intro1)
+                st.write("*The solution*")
+                st.write(app_intro2)
+                
+            with book_image_col:
+                st.write("")
+                st.image("images/book_app_logo.png", width=200)
+
+        with how_tab: 
+            word_col, space_col, book_image_col = st.columns(expander_dimensions) 
+            
+            with word_col:
+                st.write("")
+                st.write('**Getting started**')
+                # st.write("*The new way to discover books)
+                st.write(get_started1)
+                st.write("*What if I have a GoodReads account?*")
+                st.write(get_started2)
+                st.write("*Cool! Anything else?*")
+                st.write(get_started3)
+
+            with book_image_col:
+                st.write("")
+                st.image("images/book_app_logo.png", width=200)
+
+    st.write("")
     st.write("**Recommendations**")
     mode = st.selectbox("Mode", ["Classic", "Surprise Me"])
     container1, container2, container3 = st.columns([3, 4, 2])
@@ -559,26 +598,26 @@ with col_recommend:
     with container3:
         hide_read = st.checkbox("Hide Books Already Read", value=True, key="hide_read")
 
-    def acknowledge_sidebar():
-        st.session_state.sidebar_acknowledged = True
+    # def acknowledge_sidebar():
+    #     st.session_state.sidebar_acknowledged = True
 
-    if "sidebar_acknowledged" not in st.session_state:
-        st.session_state.sidebar_acknowledged = False
+    # if "sidebar_acknowledged" not in st.session_state:
+    #     st.session_state.sidebar_acknowledged = False
 
-    if not st.session_state.sidebar_acknowledged:
-        st.write("")
-        st.write("")
-        st.markdown(
-            '<span style="color: navy; font-weight: bold;">'
-            'Toggle sliders to get recs, '
-            'or open sidebar (top left) to try out personalities!'
-            '</span>',
-            unsafe_allow_html=True
-        )
+    # if not st.session_state.sidebar_acknowledged:
+    #     st.write("")
+    #     st.write("")
+    #     st.markdown(
+    #         '<span style="color: navy; font-weight: bold;">'
+    #         'Toggle sliders to get recs, '
+    #         'or open sidebar (top left) to try out personalities!'
+    #         '</span>',
+    #         unsafe_allow_html=True
+    #     )
 
-        st.markdown('<span style="color: navy;">Zoom out (ctrl + "-") to 75% for best experience </span>', 
-                    unsafe_allow_html=True)
-        st.button("Got it!", on_click=acknowledge_sidebar)
+    #     st.markdown('<span style="color: navy;">Zoom out (ctrl + "-") to 75% for best experience </span>', 
+    #                 unsafe_allow_html=True)
+    #     st.button("Got it!", on_click=acknowledge_sidebar)
         
     # Mapping from mode name to novelty factor
     mode_to_novelty = {
@@ -618,12 +657,12 @@ with col_recommend:
         recommended_book_covers = books_covers.loc[result.index]
         recommended_book_covers_dict = recommended_book_covers.to_dict(orient='index')
         
-        white_space(1)
+        white_space(2)
         tabs = st.tabs([add_padding(i+1, 10) for i in range(len(recommended_book_covers_dict))])
 
         for tab, (title, info) in zip(tabs, recommended_book_covers_dict.items()):
             with tab:
-                image_col, space_col, content_col = st.columns([1, 0.1, 4])  # Adjust ratio as needed
+                image_col, space_col, content_col = st.columns([1, 0.1, 4])  
 
                 with image_col:
                     st.write("")
@@ -645,50 +684,42 @@ with col_recommend:
         if check_if_sliders_zero():
             st.warning("Kind reminder to toggle genres before loading recommendations")
 
-        
 
-        neighbor_users, neighbor_books = st.columns([2.5, 1])
-        with neighbor_users:
-            white_space(25)
-            st.write("**Neighbor users**")
-            st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
-                           whose reading patterns most closely match the genres you provided (on the left) """)
-            st.dataframe(st.session_state.neighbors, height = 210)
-            st.divider()
-            st.write("*Definitions*")
-            st.caption("- 'rating': Average rating given by neighbor users (more relevant/reliable than all users)")
-            st.caption("- 'count': represents how many neighbor users have rated the book (out of 100)")
-            st.caption("- 'novelty': Inversely related to number of people who have read this book")
-            
     else:
         st.session_state.recommendations = pd.DataFrame(columns=rec_df_cols)
         st.dataframe(st.session_state.recommendations, height = 210)
 
-how_it_works, _, data_description = st.columns([4.8, 0.65, 6.5]) 
 
-with how_it_works:
-    st.write("")
-    st.write("")
-    st.write("#### About this app")
-    st.write(""" Get instantaneous high-quality book recommendations based on your unique personality!"""
-             """ Recommendations are sourced from real-life Goodreads community members whose reading behaviors  """
-             """ statistically match yours based on the genres you enjoy reading. """)
-    
+with left_column:
     st.divider()
-    
     st.write(""" **Relevant**: Recs come from those whose reading profiles are just like yours""")
     st.write(""" **Reliable**: Recs are based on the behavior of highly active and informed readers""")
-    st.write(""" **Transparent**: You know exactly who/where your recommendations are coming from""")
+    st.write(""" **Transparent**: You know exactly who/where your recommendations are coming from""") 
 
-with data_description:
+    # st.divider()
+    # st.write("**Technical details**")
     st.write("")
-    st.write("")
-    st.write("")
-    st.write("""*Data based on*""")
-    st.caption(""" - 16,000+ books """)
-    st.caption(""" - 9,500+ user profiles """)
-    st.caption(""" - 475,000+ ratings""")
+    neighbor_tab, definition_tab, data_tab = st.tabs(["Neighbor users", "Definitions", "Data"])
 
-
-
-# st.write(st.session_state.llm_prompt)
+    with neighbor_tab:
+        st.write("**Neighbor users**")
+        st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
+                        whose reading patterns most closely match the genres you provided (on the left) """)
+        st.dataframe(st.session_state.neighbors, height = 210)
+    with definition_tab:
+        st.write("*Definitions*")
+        st.caption("- 'rating': Average rating given by neighbor users (more relevant/reliable than all users)")
+        st.caption("- 'count': represents how many neighbor users have rated the book (out of 100)")
+        st.caption("- 'novelty': Inversely related to number of people who have read this book")
+    with data_tab:
+        data_col1, _, data_col2 = st.columns([2,.5,3])
+        with data_col1:
+            st.write("**Coverage**")
+            st.write("- 16,000+ books")
+            st.write("- 9,500+ user profiles")
+            st.write("- 475,000+ ratings")
+        with data_col2:
+            st.write("**Source**")
+            st.write(goodreads_intro)
+            st.write("")
+            st.markdown("[GoodReads](https://www.goodreads.com/)")
