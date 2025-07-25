@@ -74,7 +74,7 @@ def check_if_sliders_zero():
     return True
 
 if "too_few_responses" not in st.session_state:
-    st.session_state.too_few_responses = True
+    st.session_state.too_few_responses = False
 
 if "too_many_responses" not in st.session_state:
     st.session_state.too_many_responses = False
@@ -95,9 +95,12 @@ def add_response(max_response_length = MAX_RESPONSE_LENGTH, max_responses = MAX_
             st.session_state.response_too_long = False
         elif len(response_list) < max_responses:
             if len(response) <= max_response_length:
+                # success 
                 response_list.append(response)
                 st.session_state.response_input = ""  # Clear input
                 st.session_state.response_too_long = False
+                st.session_state.too_few_responses = False
+
             else:
                 st.session_state.response_too_long = True
         else:
