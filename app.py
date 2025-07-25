@@ -683,18 +683,8 @@ with left_column:
     # st.divider()
     # st.write("**Technical details**")
     st.write("")
-    neighbor_tab, definition_tab, data_tab = st.tabs(["Neighbor users", "Definitions", "Data"])
+    data_tab, glossary_tab, neighbor_tab = st.tabs(["Data", "Neighbor users", "Glossary"])
 
-    with neighbor_tab:
-        st.write("**Neighbor users**")
-        st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
-                        whose reading patterns most closely match the genres you provided (on the left) """)
-        st.dataframe(st.session_state.neighbors, height = 210)
-    with definition_tab:
-        st.write("*Definitions*")
-        st.caption("- 'rating': Average rating given by neighbor users (more relevant/reliable than all users)")
-        st.caption("- 'count': represents how many neighbor users have rated the book (out of 100)")
-        st.caption("- 'novelty': Inversely related to number of people who have read this book")
     with data_tab:
         data_col1, _, data_col2 = st.columns([2,.5,3])
         with data_col1:
@@ -707,3 +697,13 @@ with left_column:
             st.write(goodreads_intro)
             st.write("")
             st.markdown("[GoodReads](https://www.goodreads.com/)")
+    with glossary_tab:
+        st.write("*Definitions*")
+        st.caption("- 'rating': Average rating given by neighbor users (more relevant/reliable than all users)")
+        st.caption("- 'count': represents how many neighbor users have rated the book (out of 100)")
+        st.caption("- 'novelty': Inversely related to number of people who have read this book")
+    with neighbor_tab:
+        st.write("**Neighbor users**")
+        st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
+                        whose reading patterns most closely match the genres you provided (on the left) """)
+        st.dataframe(st.session_state.neighbors, height = 210)
