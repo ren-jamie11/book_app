@@ -564,7 +564,7 @@ with col_recommend:
                 st.write("#### Pocket Library: the new way to discover books")
                 # st.write("*The new way to discover books)
                 st.write(app_intro1)
-                st.write("*Tell me more!*")
+                st.write("***Tell me more!***")
                 st.write(app_intro2)
                 
             with book_image_col:
