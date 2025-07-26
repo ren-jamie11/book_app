@@ -724,10 +724,15 @@ with left_column:
             st.write("")
             st.markdown("[GoodReads](https://www.goodreads.com/)")
     with glossary_tab:
+        st.write("*Modes*")
+        st.caption("- Classic: Top rated books based on reputable Goodreads members similar to you")
+        st.caption("- Surprise Me: With an added emphasis on unique/lesser known books")
+
         st.write("*Definitions*")
-        st.caption("- 'rating': Average rating given by neighbor users (more relevant/reliable than all users)")
-        st.caption("- 'count': represents how many neighbor users have rated the book (out of 100)")
+        st.caption("- 'rating': Average rating given by neighbor users (as opposed to all users)")
+        st.caption("- 'count': represents how many neighbor users have rated the book (out of top 100)")
         st.caption("- 'novelty': Inversely related to number of people who have read this book")
+
     with neighbor_tab:
         st.write("**Neighbor users**")
         st.caption(""" Recommendations are based on books highly rated by top 100 reputable GoodReads users 
